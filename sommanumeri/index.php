@@ -8,3 +8,4 @@ foreach ($numeri as $valore) {
 
 echo "La somma calcolata è: " . $somma;
 ?>
+
